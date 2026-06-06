@@ -31,7 +31,7 @@ Built on the **Cell2Cell dataset** (51,047 customers, 58 features) as a proof of
 |---|---|---|
 | 01 | [EDA](notebook01-eda.ipynb) | Exploratory Data Analysis — distributions, correlations, missing values |
 | 02 | [Segmentation](notebook02.ipynb) | KMeans customer segmentation — 3 risk profiles identified |
-| 03 | [Churn Prediction](notebokkk03.ipynb) | XGBoost + SHAP explainability + Business insights |
+| 03 | [Churn Prediction](notebokk03.ipynb) | XGBoost + SHAP explainability + Business insights |
 | 04 | [Retention Engine](notebook04.ipynb) | Groq LLM generates personalized retention messages per customer |
  
 ---
