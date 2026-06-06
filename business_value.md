@@ -168,5 +168,12 @@ The model outputs a churn probability for each customer. The **decision threshol
 | No NPS or satisfaction scores | Integrate customer satisfaction data in next version |
 
 ---
+## Notebooks
+
+| Notebook | Description | Link |
+|---|---|---|
+| 01 — EDA | Exploratory Data Analysis | [Open](notebook01-eda.ipynb) |
+| 02 — Segmentation | KMeans customer segmentation | [Open](notebook02.ipynb) |
+| 03 — Churn Prediction | XGBoost + SHAP + Business Insights | [Open](notebookk03.ipynb) |
 
 *Built with XGBoost + SHAP | Dataset: Cell2Cell (51,047 customers) | Model AUC: 0.675*
