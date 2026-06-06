@@ -5,7 +5,7 @@
 
 ## 1. Problem Statement
 
-Tunisie Telecom loses a significant portion of its customer base every year to churn. The traditional approach to retention — calling customers randomly or waiting until they request cancellation — is both costly and ineffective. This project addresses that gap by building a **data-driven early warning system** that identifies at-risk customers before they leave.
+US Telecom loses a significant portion of its customer base every year to churn. The traditional approach to retention — calling customers randomly or waiting until they request cancellation — is both costly and ineffective. This project addresses that gap by building a **data-driven early warning system** that identifies at-risk customers before they leave.
 
 ---
 
