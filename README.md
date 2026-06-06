@@ -18,7 +18,7 @@ Built on the Cell2Cell dataset (51,047 customers, 58 features).
 |---|---|---|
 | 01 — EDA | Exploratory Data Analysis | [Open](notebook01-eda.ipynb) |
 | 02 — Segmentation | KMeans customer segmentation | [Open](notebook02.ipynb) |
-| 03 — Churn Prediction | XGBoost + SHAP + Business Insights | [Open](notebookk03.ipynb) ||
+| 03 — Churn Prediction | XGBoost + SHAP + Business Insights | [Open](notebokk03.ipynb) ||
 
 ## Tech Stack
 Python · XGBoost · LightGBM · SHAP · Scikit-learn · Pandas · Matplotlib
