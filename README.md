@@ -88,7 +88,7 @@ NB04 — LLM Retention Engine
  
 ## 💼 Business Value
  
-See [business_value.md](business_value.md) for the full ROI analysis, retention strategy, and implementation roadmap.
+See [business_value.md](business_value(1).md) for the full ROI analysis, retention strategy, and implementation roadmap.
  
 **Key insight:** Targeting only 10,607 high-risk customers with personalized retention calls yields a **35x ROI** — spending 106K DT to save 3.69M DT in annual revenue.
  
